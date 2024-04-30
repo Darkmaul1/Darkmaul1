@@ -8,7 +8,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Darkmaul1/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Darkmaul1/post-install-config)
+  - [VPN: Installation and Usage](https://github.com/Darkmaul1/post-install-config)
   - 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Darkmaul1/configure-ad)
