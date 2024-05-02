@@ -9,10 +9,9 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Darkmaul1/osticket-prereqs)
   - [VPN: Installation and Usage](https://github.com/Darkmaul1/Vpn install-usage)
-  - 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Darkmaul1/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Darkmaul1/azure-network-protocols)
+    
 
 <h2>🤳Connect with me:</h2>
 
